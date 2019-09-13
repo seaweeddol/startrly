@@ -3,7 +3,7 @@
 ## At a Glance
 
 - Individual, [stage 2](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md#stage-2) project
-- Due **end of day Friday**
+- Due **beginning of day Friday**
 
 ## Introduction
 
@@ -14,7 +14,7 @@ A team of ambitious and passionate folks have assembled and they're creating a n
 - Have DRY, readable CSS code using CSS selectors with classes and ids
 - Add styles
 
-## Baseline
+## Objective
 Using CSS, construct the layout of the site according to the following wireframe attached to the project:
 - [Wireframe for desktop (large devices)](wireframes/desktop.png)
 
@@ -31,7 +31,7 @@ Your goal is to create styles for Startrly's website so that its layout emulates
 - You can add sectioning elements to wrap around content
 - You can add IDs and classes to elements, as necessary
 
-## Primary Requirements
+## Implementation Requirements
 
 - Add normalize.css
   - Normalize is a popular collection of CSS rulesets used to render elements more consistently across browsers.
