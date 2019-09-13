@@ -3,11 +3,9 @@ Congratulations! You're submitting your assignment.
 
 ## Comprehension Questions
 
-Feature | Feedback
+Question | Answer
 --- | ---
-How are CSS Grid & Flexbox similar | 
-Give one example where you choose Flexbox over Grid |
-Where did you choose to use CSS Grid and why did you make that decision |
-What was the hardest part of this assignment, and why was it difficult |
-What concept did you get the most clarity on through Startrly? |
-Do you have any suggestions on how to improve this project |
+Describe a time you chose to use flexbox |
+Describe a time you chose to use CSS Grid |
+What was a challenge you overcame in this project? | 
+What concept did you get the most clarity on through Startrly? | 
