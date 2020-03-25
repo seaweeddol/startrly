@@ -6,23 +6,9 @@ body {
   border: 1px solid blueviolet;
 }
 
-
-section:first-of-type {
-  background-color: rgb(128, 180, 148);
-}
-
 nav > ul {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: flex-end;
-}
-
-nav > ul li {
-  margin: 20px;
-}
-nav ul li:first-of-type {
-  align-self: flex-start;
+  display: grid;
+  grid-template-columns: 3fr 1fr 1fr;
 }
 
 ul li {
@@ -35,6 +21,7 @@ ul li {
   justify-content: center;
   align-items: center;
   height: 40vh;
+  background-color: lightseagreen;
 }
 
 #hero sub {
@@ -67,8 +54,16 @@ blockquote {
   line-height: 2em;
 }
 
+blockquote::before, blockquote::after {
+  content: '"';
+}
+
 .quote p {
   align-self: flex-end;
+}
+
+.quote p::before {
+  content: "--";
 }
 
 #why {
